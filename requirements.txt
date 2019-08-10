@@ -1,0 +1,5 @@
+netifaces
+screeninfo
+pynput
+pyperclip
+wxpython
