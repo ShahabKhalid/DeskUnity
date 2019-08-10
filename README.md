@@ -20,7 +20,7 @@ WAN or LAN both. DeskUnity prefer LAN connection over WAN in case it find both.
 
 ## Bugs
 
-- NIL
+- ALT + [Any Key] buttons is not working somehow
 
 ## Instructions
 
@@ -36,7 +36,7 @@ WAN or LAN both. DeskUnity prefer LAN connection over WAN in case it find both.
 ## Next Version Plans (Priority from top to bottom)
 
 - Lock Sync
-- Client will be to share resources too
+- Client will be able to share resources too
 - Multiple Computers support
 - Multiples Screens support
 - Others 
